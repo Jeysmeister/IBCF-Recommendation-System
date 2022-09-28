@@ -1,0 +1,29 @@
+Existing
+
+dataset([users][ratings],[item])
+calculate n nearest neighbor using cosine similarity
+put all item rated by user in a list
+sort the list by rating
+for item in list:
+    get n nearest neighbor of rated items
+    calculate predicted rating
+    get the average of predicted rating per item
+recommend most repeated nearest neighbor
+show predicted rating
+
+Enhanced
+
+dataset([users][ratings],[item])
+calculate n nearest neighbor using cosine similarity
+put all item rated by user in a list
+sort the list by rating
+for item in list:
+    get n nearest neighbor of rated items
+    calculate predicted rating
+rec-item = most repeated nearest neighbor
+near-rec-item = nearest neigbors of rec-items
+inter-quartile-item = apply inter-quartile range concept to near-rec-item
+get the average of predicted rating per item
+recommend inter-quartile-item
+show predicted rating of inter-quartile-item
+

@@ -1,0 +1,500 @@
+gameId,title,genres,price,release_date
+1,Super Mario 64 DS,Action,24.95,2004
+2,Lumines: Puzzle Fusion,Strategy,14.95,2004
+3,WarioWare Touched!,Action|Racing |Sports,22.95,2004
+4,Hot Shots Golf: Open Tee,Sports,12.95,2004
+5,Spider-Man 2,Action,14.95,2004
+6,The Urbz: Sims in the City,Simulation,12.95,2004
+7,Ridge Racer,Racing,19.95,2004
+8,Metal Gear Ac!d,Strategy,17.95,2004
+9,Madden NFL 2005,Sports,8.95,2004
+10,Pokmon Dash,Racing,24.95,2004
+11,Dynasty Warriors,Action|Adventure|Role-Playing (RPG),14.95,2004
+12,Feel the Magic XY/XX,Action|Adventure|Racing|Sports,8.95,2004
+13,Ridge Racer DS,Racing,9.95,2004
+14,Darkstalkers Chronicle: The Chaos Tower,Action,14.95,2004
+15,Ape Escape Academy,Action|Sports,14.95,2004
+16,Polarium,Strategy,8.95,2004
+17,Asphalt: Urban GT,Racing|Simulation,14.95,2004
+18,Zoo Keeper,Action,14.95,2004
+19,Mr. DRILLER: Drill Spirits,Action,14.95,2004
+20,Sprung,Adventure,8.95,2004
+21,Armored Core: Formula Front - Extreme Battle,Action|Strategy,16.95,2004
+22,Puyo Pop Fever,Action|Strategy,19.95,2004
+23,Mario Kart DS,Racing,29.95,2005
+24,Nintendogs,Simulation,26.95,2005
+25,Brain Age: Train Your Brain in Minutes a Day!,Action,17.95,2005
+26,Brain Agey: More Training in Minutes a Day!,Action,17.95,2005
+27,Grand Theft Auto: Liberty City Stories,Action|Racing,17.95,2005
+28,Animal Crossing: Wild World,Simulation,24.95,2005
+29,Big Brain Academy,Action,16.95,2005
+30,Call of Duty 2,Action,17.95,2005
+31,Midnight Club 3: DUB Edition,Racing,14.95,2005
+32,Need for Speed: Most Wanted 5-1-0,Racing,14.95,2005
+33,Pokmon Mystery Dungeon: Blue Rescue Team,Role-Playing (RPG),14.95,2005
+34,Sonic Rush,Action,14.95,2005
+35,Star Wars: Battlefront II,Action,16.95,2005
+36,SOCOM: U.S. Navy SEALs - Fireteam Bravo,Action,14.95,2005
+37,Need for Speed: Most Wanted,Racing,17.95,2005
+38,Zoo Tycoon DS,Simulation|Strategy,12.95,2005
+39,The Sims 2,Role-Playing (RPG)|Simulation,17.95,2005
+40,Mario & Luigi: Partners in Time,Action|Role-Playing (RPG),29.95,2005
+41,Madden NFL 06,Sports,7.95,2005
+42,Need for Speed Underground: Rivals,Racing,17.95,2005
+43,Twisted Metal: Head-On,Action|Racing,14.95,2005
+44,Perfect Dark Zero,Action,17.95,2005
+45,Super Monkey Ball: Touch & Roll,Action,15.95,2005
+46,Super Princess Peach,Action,29.95,2005
+47,Burnout Legends,Action|Racing,14.95,2005
+48,Madden NFL 06,Sports,4.95,2005
+49,Clubhouse Games,Strategy,17.95,2005
+50,ATV Offroad Fury: Blazin' Trails,Racing|Sports,12.95,2005
+51,Untold Legends: Brotherhood of the Blade,Action|Role-Playing (RPG),12.95,2005
+52,Tony Hawk's Underground 2: Remix,Sports,14.95,2005
+53,The Sims 2,Simulation|Strategy,14.95,2005
+54,WipEout Pure,Action|Racing,12.95,2005
+55,NBA Live 06,Sports,9.95,2005
+56,WWE Smackdown vs. Raw 2006,Action|Sports,14.95,2005
+57,Dead or Alive 4,Action,17.95,2005
+58,Phoenix Wright: Ace Attorney,Adventure|Simulation,24.95,2005
+59,Spider-Man 2,Action,14.95,2005
+60,NFL Street 2,Sports,17.95,2005
+61,Kirby: Canvas Curse,Action,17.95,2005
+62,Battlefield 2: Modern Combat,Action,16.95,2005
+63,Yoshi Touch & Go,Action,17.95,2005
+64,Tiger Woods PGA Tour 06,Sports,9.95,2005
+65,Condemned: Criminal Origins,Action|Adventure,14.95,2005
+66,Peter Jackson's King Kong: The Official Game of...,Action,14.95,2005
+67,Castlevania: Dawn of Sorrow,Action|Role-Playing (RPG),17.95,2005
+68,SpongeBob SquarePants: The Yellow Avenger,Action,13.95,2005
+69,Marvel Nemesis: Rise of the Imperfects ,Action,17.95,2005
+70,Kameo: Elements of Power,Action,11.95,2005
+71,Advance Wars: Dual Strike,Strategy,17.95,2005
+72,Trauma Center: Under the Knife,Action|Simulation,15.95,2005
+73,Coded Arms,Action,12.95,2005
+74,NBA LIVE 06,Sports,4.95,2005
+75,Tony Hawk's American Wasteland,Sports,14.95,2005
+76,Star Wars: Episode III - Revenge of the Sith,Action,16.95,2005
+77,Capcom Classics Collection Remixed,Action,17.95,2005
+78,Madagascar,Adventure,14.95,2005
+79,X-Men: Legends II - Rise of Apocalypse,Action|Role-Playing (RPG),17.95,2005
+80,Quake 4,Action,14.95,2005
+81,Pokmon Trozei!,Strategy,19.95,2005
+82,Need for Speed: Most Wanted,Racing,15.95,2005
+83,Mega Man Maverick Hunter X,Action,17.95,2005
+84,Metroid Prime Pinball,Action|Simulation,17.95,2005
+85,NBA 06,Sports,9.95,2005
+86,GUN ,Action|Racing|Role-Playing (RPG),19.95,2005
+87,NBA 2K6 ,Sports,4.95,2005
+88,Pinball Hall of Fame: The Gottlieb Collection,Action,9.95,2005
+89,Harry Potter and the Goblet of Fire,Action,17.95,2005
+90,Tony Hawk's American Sk8land,Sports,16.95,2005
+91,MVP Baseball,Sports,4.95,2005
+92,Tiger Woods PGA Tour,Sports,17.95,2005
+93,World Series of Poker,Sports|Strategy,14.95,2005
+94,SSX on Tour,Sports,16.95,2005
+95,Tiger Woods PGA Tour 06,Sports,9.95,2005
+96,Death Jr.,Action,9.95,2005
+97,Harry Potter and the Goblet of Fire,Action,17.95,2005
+98,MediEvil Resurrection,Action,17.95,2005
+99,The Chronicles of Narnia: The Lion| the Witch a...,Action|Role-Playing (RPG),12.95,2005
+100,Shrek SuperSlam,Action,11.95,2005
+101,Virtua Tennis: World Tour,Sports,14.95,2005
+102,Prince of Persia: Revelations,Action,6.95,2005
+103,Burnout Legends,Action|Racing,17.95,2005
+104,Meteos,Strategy,15.95,2005
+105,Spyro: Shadow Legacy,Role-Playing (RPG),17.95,2005
+106,The Con,Action,8.95,2005
+107,Infected,Action,17.95,2005
+108,Pursuit Force,Action|Racing,14.95,2005
+109,Kingdom of Paradise,Action|Role-Playing (RPG),12.95,2005
+110,Dragon Ball Z: Supersonic Warriors 2,Action,22.95,2005
+111,Dragon Quest Heroes: Rocket Slime,Action,12.95,2005
+112,Dead to Rights: Reckoning,Action,14.95,2005
+113,Amped 3,Sports,14.95,2005
+114,Break 'em All,Action,17.95,2005
+115,Lunar: Dragon Song,Role-Playing (RPG),14.95,2005
+116,Madden NFL 06,Sports,9.95,2005
+117,Retro Atari Classics,Action|Racing|Simulation,12.95,2005
+118,True Swing Golf,Sports,14.95,2005
+119,FIFA Soccer,Sports,14.95,2005
+120,Metal Gear Ac!d 2,Strategy,12.95,2005
+121,ATV Quad Frenzy,Racing|Sports,14.95,2005
+122,Bomberman,Strategy,17.95,2005
+123,GoldenEye: Rogue Agent,Action,14.95,2005
+124,Need for Speed Underground 2,Racing,22.95,2005
+125,Frogger: Helmet Chaos,Action,19.95,2005
+126,The Lord of the Rings: Tactics,Role-Playing (RPG)|Strategy,19.95,2005
+127,Rengoku: The Tower of Purgatory,Action|Role-Playing (RPG),12.95,2005
+128,Gretzky NHL,Sports,9.95,2005
+129,Ridge Racer 6,Racing,14.95,2005
+130,Ford Racing 3,Action|Racing,14.95,2005
+131,NHL 2K6 ,Sports,5.95,2005
+132,Bust-a-Move DS,Action|Strategy,17.95,2005
+133,Battles of Prince of Persia,Strategy,14.95,2005
+134,GripShift,Racing,9.95,2005
+135,Marvel Nemesis: Rise of the Imperfects ,Action,14.95,2005
+136,Scooby-Doo! Unmasked,Action,17.95,2005
+137,Viewtiful Joe: Double Trouble!,Action,14.95,2005
+138,The Legend of Heroes: A Tear of Vermillion,Role-Playing (RPG),17.95,2005
+139,PQ: Practical Intelligence Quotient,Strategy,14.95,2005
+140,Lost in Blue,Role-Playing (RPG),24.95,2005
+141,Ghost in the Shell: Stand Alone Complex,Action,14.95,2005
+142,Dig Dug: Digging Strike,Action,16.95,2005
+143,Frogger: Helmet Chaos,Action,17.95,2005
+144,Mega Man Battle Network 5: Double Team DS,Action|Role-Playing (RPG),17.95,2005
+145,Nanostray,Action,17.95,2005
+146,Sega Casino,Simulation,17.95,2005
+147,Teenage Mutant Ninja Turtles 3: Mutant Nightmare,Action|Adventure,17.95,2005
+148,Pac-Man World 3,Action,24.95,2005
+149,Tokobot,Strategy,17.95,2005
+150,Fullmetal Alchemist: Dual Sympathy,Action,14.95,2005
+151,Exit,Action,9.95,2005
+152,Bubble Bobble Revolution,Action,17.95,2005
+153,The Rub Rabbits!,Action|Adventure,17.95,2005
+154,Electroplankton,Simulation,29.95,2005
+155,LifeSigns: Surgical Unit,Simulation|Strategy,22.95,2005
+156,Space Invaders Revolution,Action,13.95,2005
+157,Wii Play,Action|Sports,14.95,2006
+158,New Super Mario Bros.,Action,27.95,2006
+159,Pokmon Diamond,Role-Playing (RPG),27.95,2006
+160,Pokmon Pearl,Role-Playing (RPG),26.95,2006
+161,Gears of War,Action,19.95,2006
+162,The Legend of Zelda: Twilight Princess,Action|Role-Playing (RPG),39.95,2006
+163,Cooking Mama,Simulation,17.95,2006
+164,Marvel Ultimate Alliance,Action|Role-Playing (RPG),14.95,2006
+165,Daxter,Action,14.95,2006
+166,The Elder Scrolls IV: Oblivion,Action|Role-Playing (RPG),19.95,2006
+167,Madden NFL 07,Sports,4.95,2006
+168,Grand Theft Auto: Vice City Stories,Action|Racing,17.95,2006
+169,Resistance: Fall of Man,Action,19.95,2006
+170,MotorStorm,Action|Racing|Sports,16.95,2006
+171,Call of Duty 3,Action,16.95,2006
+172,Yoshi's Island DS,Action,27.95,2006
+173,Tom Clancy's Ghost Recon: Advanced Warfighter,Action,14.95,2006
+174,Fight Night Round 3,Action|Sports,14.95,2006
+175,Pokmon Ranger,Role-Playing (RPG),19.95,2006
+176,Rayman Raving Rabbids,Action,17.95,2006
+177,Saints Row,Action|Racing,14.95,2006
+178,Tom Clancy's Rainbow Six: Vegas,Action,14.95,2006
+179,Dead Rising,Action,16.95,2006
+180,Call of Duty 3,Action,19.95,2006
+181,Lost Planet: Extreme Condition,Action,12.95,2006
+182,Mario Hoops 3 on 3,Sports,22.95,2006
+183,LEGO Star Wars II: The Original Trilogy,Action,17.95,2006
+184,Super Monkey Ball: Banana Blitz,Action,14.95,2006
+185,The Sims 2: Pets,Simulation,14.95,2006
+186,Need for Speed: Carbon - Own the City,Racing,16.95,2006
+187,WarioWare: Smooth Moves,Action|Racing|Sports,39.95,2006
+188,Fight Night Round 3,Action|Sports,13.95,2006
+189,Final Fantasy III,Role-Playing (RPG),17.95,2006
+190,SOCOM: U.S. Navy SEALs - Fireteam Bravo 2,Action,16.95,2006
+191,Madden NFL 07,Sports,9.95,2006
+192,Monster 4x4: World Circuit,Racing,12.95,2006
+193,Kirby: Squeak Squad,Action,27.95,2006
+194,Pokmon Battle Revolution,Action|Strategy,39.95,2006
+195,Medal of Honor: Heroes,Action,14.95,2006
+196,Tekken: Dark Resurrection,Action,17.95,2006
+197,Need for Speed: Carbon,Racing,16.95,2006
+198,Mario vs. Donkey Kong 2: March of the Minis,Action,27.95,2006
+199,Sonic Rivals,Action|Racing,17.95,2006
+200,NCAA Football 07,Sports,4.95,2006
+201,Mortal Kombat: Unchained,Action,17.95,2006
+202,Tom Clancy's Splinter Cell: Double Agent,Action,17.95,2006
+203,Tetris DS,Strategy,17.95,2006
+204,LEGO Star Wars II: The Original Trilogy,Action,17.95,2006
+205,Red Steel,Action,14.95,2006
+206,Metroid Prime: Hunters,Action,27.95,2006
+207,LEGO Star Wars II: The Original Trilogy,Action,14.95,2006
+208,NBA 2K7 ,Sports,4.95,2006
+209,SEGA Genesis Collection,Action|Racing|Role-Playing (RPG)|Strategy,17.95,2006
+210,Call of Duty 3,Action,19.95,2006
+211,NBA Live 07,Sports,7.95,2006
+212,Madden NFL 07,Sports,6.95,2006
+213,SpongeBob SquarePants: The Yellow Avenger,Action,12.95,2006
+214,Madden NFL 07,Sports,9.95,2006
+215,Fight Night Round 3,Action|Simulation|Sports,16.95,2006
+216,Need for Speed: Carbon,Racing,17.95,2006
+217,Need for Speed: Carbon,Racing,17.95,2006
+218,WWE SmackDown vs. Raw 2007,Sports,12.95,2006
+219,Tiger Woods PGA Tour 07,Sports,9.95,2006
+220,Viva Pi$?ata,Simulation|Strategy,16.95,2006
+221,SpongeBob Squarepants: Creature from the Krusty Krab,Action|Adventure,14.95,2006
+222,Tony Hawk's Project 8,Sports,17.95,2006
+223,Tony Hawk's Project 8,Sports,16.95,2006
+224,NBA LIVE 07 ,Sports,4.95,2006
+225,Excite Truck,Racing,19.95,2006
+226,Harvest Moon DS,Role-Playing (RPG)|Simulation,17.95,2006
+227,Star Fox Command,Action,14.95,2006
+228,Metal Gear Solid: Portable Ops,Action|Strategy,17.95,2006
+229,Marvel Ultimate Alliance,Action|Role-Playing (RPG),17.95,2006
+230,Blazing Angels: Squadrons of WWII,Action,16.95,2006
+231,Major League Baseball 2K6,Sports,4.95,2006
+232,NCAA Football 07,Sports,9.95,2006
+233,MLB 06: The Show,Sports,9.95,2006
+234,Blazing Angels: Squadrons of WWII,Action,16.95,2006
+235,WWE SmackDown vs. Raw 2007,Sports,14.95,2006
+236,Rune Factory: A Fantasy Harvest Moon,Role-Playing (RPG)|Simulation,24.95,2006
+237,Marvel Ultimate Alliance,Action|Role-Playing (RPG),22.95,2006
+238,Marvel Ultimate Alliance,Action|Role-Playing (RPG),24.95,2006
+239,Tiger Woods PGA Tour 07,Sports,14.95,2006
+240,Ace Combat X: Skies of Deception,Action|Simulation,22.95,2006
+241,Killzone: Liberation,Action|Strategy,16.95,2006
+242,F.E.A.R.: First Encounter Assault Recon,Action,17.95,2006
+243,NBA 2K7,Sports,7.95,2006
+244,Tony Hawk's Project 8,Sports,14.95,2006
+245,Avatar: The Last Airbender,Action,17.95,2006
+246,Castlevania: Portrait of Ruin,Action,17.95,2006
+247,Hitman: Blood Money,Action,22.95,2006
+248,Rockstar Games presents Table Tennis,Sports,9.95,2006
+249,Trauma Center: Second Opinion,Action|Simulation,17.95,2006
+250,Tenchu Z,Action,14.95,2006
+251,Elite Beat Agents,Action,9.95,2006
+252,Street Fighter Alpha 3 MAX,Action,14.95,2006
+253,Blue Dragon,Role-Playing (RPG),14.95,2006
+254,The Lord of the Rings: The Battle for Middle Ea...,Strategy,19.95,2006
+255,Prey,Action,14.95,2006
+256,Over the Hedge,Adventure,16.95,2006
+257,Capcom Classics Collection Reloaded,Action,17.95,2006
+258,Pirates of the Caribbean: Dead Man's Chest,Action,14.95,2006
+259,NHL 07 ,Sports,5.95,2006
+260,Monster Hunter Freedom,Action|Strategy,12.95,2006
+261,Chromehounds,Action|Simulation|Strategy,14.95,2006
+262,Test Drive Unlimited,Racing,17.95,2006
+263,Dragon Ball Z: Budokai Tenkaichi 2,Action,14.95,2006
+264,Dragon Quest Monsters: Joker,Role-Playing (RPG),14.95,2006
+265,Pirates of the Caribbean: Dead Man's Chest,Action,11.95,2006
+266,NFL Street 3,Action|Sports,14.95,2006
+267,Syphon Filter: Dark Mirror,Action,12.95,2006
+268,NBA 07,Sports,6.95,2006
+269,Ridge Racer 7,Racing,19.95,2006
+270,The Outfit,Action,14.95,2006
+271,Elebits,Action,14.95,2006
+272,Tony Hawk's Downhill Jam,Racing|Sports,14.95,2006
+273,The Sims 2: Pets,Simulation,17.95,2006
+274,Tiger Woods PGA Tour 07,Sports,12.95,2006
+275,Thrillville,Simulation|Strategy,14.95,2006
+276,The Godfather: The Game,Action,17.95,2006
+277,Rampage: Total Destruction,Action,16.95,2006
+278,College Hoops 2K7,Sports,6.95,2006
+279,Far Cry: Instincts - Predator,Action,17.95,2006
+280,Full Auto,Action|Racing,16.95,2006
+281,Age of Empires: The Age of Kings,Strategy,17.95,2006
+282,Need for Speed: Carbon - Own the City,Action|Racing,14.95,2006
+283,Brothers in Arms: D-Day,Action,6.95,2006
+284,Family Guy Video Game!,Action,19.95,2006
+285,Superman Returns,Action,7.95,2006
+286,Over G Fighters,Simulation,17.95,2006
+287,Final Fantasy XI Online,Action|Role-Playing (RPG),4.95,2006
+288,Mystery Dungeon: Shiren the Wanderer,Action|Role-Playing (RPG),17.95,2006
+289,Phoenix Wright: Ace Attorney - Justice for All,Adventure|Simulation,13.95,2006
+290,Justice League Heroes,Action,17.95,2006
+291,Valhalla Knights,Action|Role-Playing (RPG),16.95,2006
+292,Genji: Days of the Blade,Action|Role-Playing (RPG),14.95,2006
+293,Top Spin 2,Sports,12.95,2006
+294,Field Commander,Strategy,14.95,2006
+295,Children of Mana,Action|Role-Playing (RPG),16.95,2006
+296,Valkyrie Profile: Lenneth,Role-Playing (RPG),22.95,2006
+297,Monster House,Action,14.95,2006
+298,Enchanted Arms,Role-Playing (RPG),17.95,2006
+299,NHL 07,Sports,12.95,2006
+300,Bust-a-Move Deluxe,Strategy,14.95,2006
+301,Full Auto 2: Battlelines,Action|Racing,14.95,2006
+302,Blitz: The League,Sports,14.95,2006
+303,Star Trek Legacy,Action|Strategy,24.95,2006
+304,Eragon,Action|Role-Playing (RPG),16.95,2006
+305,Master of Illusion,Strategy,14.95,2006
+306,Mega Man ZX,Action,19.95,2006
+307,Untold Legends: The Warrior's Code,Action|Role-Playing (RPG),14.95,2006
+308,Super Swing Golf,Sports,16.95,2006
+309,X-Men: The Official Game,Action,14.95,2006
+310,Untold Legends: Dark Kingdom,Action|Role-Playing (RPG),16.95,2006
+311,Happy Feet,Action,14.95,2006
+312,Open Season,Action,17.95,2006
+313,Dungeon Siege: Throne of Agony,Role-Playing (RPG),24.95,2006
+314,LocoRoco,Action|Strategy,17.95,2006
+315,Dead or Alive: Xtreme 2,Racing|Sports,14.95,2006
+316,Fuzion Frenzy 2,Action|Sports,14.95,2006
+317,MotoGP '06,Racing|Simulation|Sports,14.95,2006
+318,Lumines II,Strategy,14.95,2006
+319,Major League Baseball 2K6,Sports,4.95,2006
+320,Star Wars: Lethal Alliance,Action,17.95,2006
+321,Worms: Open Warfare,Action|Strategy,17.95,2006
+322,Eragon,Action,14.95,2006
+323,Metal Slug Anthology,Action,16.95,2006
+324,Open Season,Action,14.95,2006
+325,Tom Clancy's Splinter Cell: Double Agent,Action,17.95,2006
+326,Avatar: The Last Airbender,Action,17.95,2006
+327,Lemmings,Strategy,17.95,2006
+328,Mega Man Powered Up,Action,16.95,2006
+329,College Hoops 2K6,Sports,6.95,2006
+330,Dynasty Warriors 5: Empires,Action|Role-Playing (RPG)|Strategy,14.95,2006
+331,Magical Starsign,Role-Playing (RPG),9.95,2006
+332,Resident Evil: Deadly Silence,Action,17.95,2006
+333,X-Men: The Official Game,Action,14.95,2006
+334,Cabela's African Safari,Sports,17.95,2006
+335,Cabela's Alaskan Adventures,Sports,17.95,2006
+336,Armored Core 4,Action,19.95,2006
+337,Eragon,Action,12.95,2006
+338,LostMagic,Action|Role-Playing (RPG),14.95,2006
+339,Magnetica,Action|Strategy,17.95,2006
+340,Def Jam Fight for NY: The Takeover,Action,17.95,2006
+341,NASCAR 07,Racing|Simulation,24.95,2006
+342,The Ant Bully,Action,16.95,2006
+343,Just Cause,Action|Racing,16.95,2006
+344,Onechanbara: Bikini Samurai Squad,Action,19.95,2006
+345,Phantasy Star Universe,Role-Playing (RPG),24.95,2006
+346,Project Sylpheed: Arc of Deception,Action,14.95,2006
+347,Winning Eleven: Pro Evolution Soccer 2007,Sports,11.95,2006
+348,Kororinpa: Marble Mania,Action|Strategy,17.95,2006
+349,Digimon World DS,Role-Playing (RPG),27.95,2006
+350,Justice League Heroes,Action,17.95,2006
+351,Innocent Life: A Futuristic Harvest Moon,Role-Playing (RPG)|Simulation|Strategy,17.95,2006
+352,Power Stone Collection,Action,14.95,2006
+353,EA Replay,Action|Role-Playing (RPG)|Simulation|Sports|Strategy,14.95,2006
+354,Open Season,Action,17.95,2006
+355,Samurai Warriors 2,Action,14.95,2006
+356,Far Cry: Vengeance,Action,16.95,2006
+357,Import Tuner Challenge,Racing,17.95,2006
+358,Contact,Adventure|Role-Playing (RPG),14.95,2006
+359,Touch Detective,Adventure,14.95,2006
+360,FIFA Street 2,Sports,17.95,2006
+361,007: From Russia with Love,Action|Racing,17.95,2006
+362,PaRappa the Rapper,Action,12.95,2006
+363,Riviera: The Promised Land,Role-Playing (RPG),17.95,2006
+364,Samurai Warriors: State of War,Action,17.95,2006
+365,Viewtiful Joe: Red Hot Rumble,Action,14.95,2006
+366,Ice Age 2: The Meltdown,Action,17.95,2006
+367,Rumble Roses XX,Action|Sports,17.95,2006
+368,Bionicle Heroes,Action,16.95,2006
+369,Deep Labyrinth,Role-Playing (RPG),10.95,2006
+370,Blade Dancer: Lineage of Light,Role-Playing (RPG),16.95,2006
+371,Every Extend Extra,Action,11.95,2006
+372,Ultimate Ghosts 'N' Goblins,Action,17.95,2006
+373,Xiaolin Showdown,Action,14.95,2006
+374,Bionicle Heroes,Action,14.95,2006
+375,Bullet Witch,Action,16.95,2006
+376,Death Jr. II: Root of Evil,Action,14.95,2006
+377,Alex Rider: Stormbreaker,Action|Adventure,12.95,2006
+378,Cartoon Network Racing,Racing,14.95,2006
+379,Guilty Gear: Dust Strikers,Action,14.95,2006
+380,Gunpey DS,Strategy,12.95,2006
+381,Lara Croft Tomb Raider: Legend,Action|Racing,17.95,2006
+382,Worms: Open Warfare,Action|Strategy,17.95,2006
+383,Mercury Meltdown,Strategy,12.95,2006
+384,MTX Mototrax,Racing|Sports,19.95,2006
+385,Snoopy vs. the Red Baron,Action,17.95,2006
+386,Super Monkey Ball Adventure,Action|Racing,24.95,2006
+387,Ys VI: The Ark of Napishtim,Action|Role-Playing (RPG),16.95,2006
+388,Bomberman Land Touch!,Action,24.95,2006
+389,Point Blank DS,Action,17.95,2006
+390,Scurge: Hive,Action,8.95,2006
+391,Star Trek: Tactical Assault,Action|Strategy,17.95,2006
+392,Tao's Adventure: Curse of the Demon Seal,Role-Playing (RPG),14.95,2006
+393,Ford Bold Moves Street Racing,Racing,17.95,2006
+394,Gitaroo Man Lives!,Simulation,22.95,2006
+395,Gradius Collection,Action,17.95,2006
+396,The Legend of Heroes II: Prophecy of the Moonli...,Role-Playing (RPG),17.95,2006
+397,Pac-Man World Rally,Action|Racing,17.95,2006
+398,Bomberman: Act Zero,Action,12.95,2006
+399,Earth Defense Force 2017,Action,17.95,2006
+400,WarTech: Senko no Ronde,Action,12.95,2006
+401,MechAssault: Phantom War,Action,12.95,2006
+402,Astonishia Story,Role-Playing (RPG)|Strategy,16.95,2006
+403,B-Boy,Action,17.95,2006
+404,BattleZone,Action,14.95,2006
+405,Bounty Hounds,Action|Strategy,17.95,2006
+406,Bubble Bobble Evolution,Action,12.95,2006
+407,MotoGP,Racing|Sports,32.95,2006
+408,OutRun 2006: Coast 2 Coast,Racing,17.95,2006
+409,Warhammer: Battle for Atluma,Strategy,17.95,2006
+410,SBK: Snowboard Kids,Action|Sports,19.95,2006
+411,Tenchu: Dark Secret,Action,14.95,2006
+412,Dungeon Maker: Hunting Ground,Action|Role-Playing (RPG),14.95,2006
+413,Metal Gear Solid: Digital Graphic Novel,Adventure,17.95,2006
+414,Star Trek: Tactical Assault,Action|Strategy,17.95,2006
+415,Micro Machines V4,Action|Racing,17.95,2006
+416,Platypus,Action,14.95,2006
+417,Custom Robo Arena,Action|Role-Playing (RPG),17.95,2006
+418,Gurumin: A Monstrous Adventure,Action,13.95,2006
+419,Spider-Man 3,Action,6.95,2006
+420,Wii Fit,Educational|Sports,24.95,2007
+421,Halo 3,Action,24.95,2007
+422,Call of Duty 4: Modern Warfare,Action,29.95,2007
+423,Super Mario Galaxy,Action,39.95,2007
+424,Mario Party DS,Action|Strategy,27.95,2007
+425,Mario Party 8,Action|Strategy,39.95,2007
+426,Guitar Hero III: Legends of Rock,Action|Simulation,12.95,2007
+427,Link's Crossbow Training,Action,14.95,2007
+428,Guitar Hero III: Legends of Rock,Action|Simulation,49.95,2007
+429,Assassin's Creed,Action,16.95,2007
+430,LEGO Star Wars: The Complete Saga,Action,17.95,2007
+431,Call of Duty 4: Modern Warfare,Action,24.95,2007
+432,Mario & Sonic at the Olympic Games,Action|Sports,29.95,2007
+433,LEGO Star Wars: The Complete Saga,Action|Racing,17.95,2007
+434,Forza Motorsport 2,Racing,12.95,2007
+435,Madden NFL 08,Sports,9.95,2007
+436,Guitar Hero II,Action|Simulation,17.95,2007
+437,Rock Band,Action|Simulation,14.95,2007
+438,The Legend of Zelda: Phantom Hourglass,Action,24.95,2007
+439,Pokmon Mystery Dungeon: Explorers of Darkness,Role-Playing (RPG),15.95,2007
+440,Pokmon Mystery Dungeon: Explorers of Time,Role-Playing (RPG),24.95,2007
+441,Assassin's Creed,Action,17.95,2007
+442,Uncharted: Drake's Fortune,Action,24.95,2007
+443,Mass Effect,Action|Role-Playing (RPG),17.95,2007
+444,Cooking Mama 2: Dinner with Friends,Simulation,17.95,2007
+445,BioShock,Action,16.95,2007
+446,Super Paper Mario,Action|Role-Playing (RPG),29.95,2007
+447,Game Party,Action,14.95,2007
+448,Ratchet & Clank: Size Matters,Action,14.95,2007
+449,Dance Dance Revolution Hottest Party,Action,17.95,2007
+450,Cooking Mama: Cook Off,Simulation,14.95,2007
+451,Gran Turismo 5: Prologue,Racing|Simulation,24.95,2007
+452,Professor Layton and the Curious Village,Adventure|Educational|Strategy,23.95,2007
+453,Resident Evil 4,Action,16.95,2007
+454,The Elder Scrolls IV: Oblivion,Action|Role-Playing (RPG),17.95,2007
+455,Transformers: Autobots,Action|Racing,17.95,2007
+456,Transformers: Decepticons,Action|Racing,17.95,2007
+457,Diddy Kong Racing DS,Racing|Sports,24.95,2007
+458,Big Brain Academy: Wii Degree,Action,19.95,2007
+459,Need for Speed: ProStreet,Racing,16.95,2007
+460,Deal or No Deal,Strategy,11.95,2007
+461,LEGO Star Wars: The Complete Saga,Action,17.95,2007
+462,Sonic and the Secret Rings,Action,16.95,2007
+463,The Orange Box,Action,17.95,2007
+464,Crackdown,Action|Racing|Role-Playing (RPG),14.95,2007
+465,Rock Band,Action|Simulation,14.95,2007
+466,Tiger Woods PGA Tour 08,Sports,17.95,2007
+467,WWE Smackdown vs. Raw 2008,Sports,12.95,2007
+468,Madden NFL 08,Sports,9.95,2007
+469,Call of Duty 4: Modern Warfare,Action,19.95,2007
+470,MySims,Simulation|Strategy,17.95,2007
+471,Mario Strikers Charged,Action|Sports,29.95,2007
+472,Star Wars Battlefront: Renegade Squadron,Action,16.95,2007
+473,Flash Focus: Vision Training in Minutes a Day,Action,17.95,2007
+474,Metroid Prime 3: Corruption,Action,19.95,2007
+475,Tom Clancy's Ghost Recon: Advanced Warfighter 2...,Action,14.95,2007
+476,Madden NFL 08,Sports,12.95,2007
+477,Ratchet & Clank Future: Tools of Destruction,Action,22.95,2007
+478,LEGO Star Wars: The Complete Saga,Action,17.95,2007
+479,Rayman Raving Rabbids 2,Action,17.95,2007
+480,NBA 2K8 ,Sports,9.95,2007
+481,Namco Museum DS,Action,17.95,2007
+482,Need for Speed: ProStreet,Racing,16.95,2007
+483,Blazing Angels: Squadrons of WWII,Action,16.95,2007
+484,Drawn to Life,Action,17.95,2007
+485,EA Playground,Action|Racing|Sports,17.95,2007
+486,Major League Baseball 2K7,Sports,9.95,2007
+487,Resident Evil: The Umbrella Chronicles,Action,19.95,2007
+488,NCAA Football 08,Sports,9.95,2007
+489,Spectrobes,Action|Strategy,14.95,2007
+490,The Sims 2: Castaway,Simulation,16.95,2007
+491,WWE Smackdown vs. Raw 2008,Sports,14.95,2007
+492,Madden NFL 08,Sports,9.95,2007
+493,NBA Live 08,Sports,9.95,2007
+494,The Simpsons Game,Action,17.95,2007
+495,Ace Combat 6: Fires of Liberation,Action|Simulation,19.95,2007
+496,Heavenly Sword,Action,24.95,2007
+497,Ninja Gaiden Sigma,Action,19.95,2007
+498,Ben 10: Protector of the Earth,Action,16.95,2007
+499,The Simpsons Game,Action,17.95,2007
